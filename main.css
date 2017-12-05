@@ -4,5 +4,31 @@
 body {
     padding-top: 30px;
     padding-bottom: 20px;
-    color: green;
+    color: black;
+}
+
+} .navbar   {
+	 background: teal;
+	 color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar   {
+	 background: teal;
+	 color: orange;
+}
+.footer {
+	background: teal;
+	color: orange;
+	width: 1500px;
+	height: 25px
+}
+.social-media {
+	color: orange;
+	position: right;
 }
